@@ -65,7 +65,7 @@ namespace DemoTest
             spnSubj.InnerText = "SUBJ: Thank you";
             spnBody.InnerText = "BODY: Hello " + CustName + ", thank you for using Energy Simply.";
 
-            var apiKey = "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";
+            var apiKey = "";
             var client = new SendGridClient(apiKey);
             var from = new EmailAddress(CustEmail, CustName);
             var subject = "Thank you";
