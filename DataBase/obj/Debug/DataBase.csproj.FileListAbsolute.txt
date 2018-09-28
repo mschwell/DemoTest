@@ -1,0 +1,11 @@
+C:\Users\matt-\Documents\Visual Studio 2017\Projects\DemoTest\DataBase\bin\Debug\DataBase.dll.config
+C:\Users\matt-\Documents\Visual Studio 2017\Projects\DemoTest\DataBase\bin\Debug\DataBase.dll
+C:\Users\matt-\Documents\Visual Studio 2017\Projects\DemoTest\DataBase\bin\Debug\DataBase.pdb
+C:\Users\matt-\Documents\Visual Studio 2017\Projects\DemoTest\DataBase\bin\Debug\EntityFramework.dll
+C:\Users\matt-\Documents\Visual Studio 2017\Projects\DemoTest\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\matt-\Documents\Visual Studio 2017\Projects\DemoTest\DataBase\bin\Debug\EntityFramework.xml
+C:\Users\matt-\Documents\Visual Studio 2017\Projects\DemoTest\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\matt-\Documents\Visual Studio 2017\Projects\DemoTest\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\matt-\Documents\Visual Studio 2017\Projects\DemoTest\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\matt-\Documents\Visual Studio 2017\Projects\DemoTest\DataBase\obj\Debug\DataBase.dll
+C:\Users\matt-\Documents\Visual Studio 2017\Projects\DemoTest\DataBase\obj\Debug\DataBase.pdb
